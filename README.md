@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jae04099)](https://hits.seeyoufarm.com) 
-	
- </div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurilee.me@gmail.com)](mailto:snugyun01@gmail.com)
+
+[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurilee.me@gmail.com)(mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jae04099.tistory.com)
