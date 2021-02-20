@@ -1,5 +1,6 @@
 ### Front End Engineer 👋
 - 🌱 I’m currently learning React.js
+- ⚡ And fight with PS problems
 <!--
 **jae04099/jae04099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
