@@ -1,6 +1,5 @@
 ### Front End Engineer 👋
 - 🌱 I’m currently learning React.js & Vue.js
-- 🔭 I’m currently working in Seoul, South Korea
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
 <!--
 **jae04099/jae04099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
