@@ -17,9 +17,9 @@
 
 ## WAIT! Before you enter, just say hi to my baby🐶
 <div align="center">
-<img src="https://user-images.githubusercontent.com/47337588/123636774-3736ec00-d858-11eb-9bb6-5649f10cc011.jpg" width="310" />
-<img src="https://user-images.githubusercontent.com/47337588/123636777-38681900-d858-11eb-9f69-1e388f93677b.jpg" width="310" />
-<img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="310" />
+<img src="https://user-images.githubusercontent.com/47337588/123636774-3736ec00-d858-11eb-9bb6-5649f10cc011.jpg" width="100" />
+<img src="https://user-images.githubusercontent.com/47337588/123636777-38681900-d858-11eb-9f69-1e388f93677b.jpg" width="100" />
+<img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="100" />
 </div>
 <br />
 
