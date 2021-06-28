@@ -1,4 +1,4 @@
-<pre>                                                                                                  
+<pre align="center">                                                                                                  
  ____             ______  _____   ______         _____    ____             ______        ______   
 |    |        ___|\     \|\    \ |\     \    ___|\    \  |    |        ___|\     \   ___|\     \  
 |    |       |     \     \\\    \| \     \  /    /\    \ |    |       |     \     \ |     \     \ 
@@ -12,13 +12,29 @@
   \(    )/     \( |_____|/    \(       )/    \(      )/    \(    )/     \( |_____|/   \( |_____|/ 
    '    '       '    )/        '       '      '      '      '    '       '    )/       '    )/    
                      '                                                        '             '     
-</pre>                                                              
+</pre>
+<br />
+
+## WAIT! Before you enter, just say hi to my baby🐶
+<div align="center">
+<img src="https://user-images.githubusercontent.com/47337588/123636774-3736ec00-d858-11eb-9bb6-5649f10cc011.jpg" width="310" />
+<img src="https://user-images.githubusercontent.com/47337588/123636777-38681900-d858-11eb-9f69-1e388f93677b.jpg" width="310" />
+<img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="310" />
+</div>
+<br />
+
 
                                                                           
 # Front End Engineer 👋
 - 🌱 I’m currently learning React.js & Vanilla JavaScript
 - ✨ Also, stydying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
+<br />
+<br />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jae04099&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae04099&layout=compact&theme=dracula&count_private=true" />
+ </div>
 <!--
 **jae04099/jae04099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
