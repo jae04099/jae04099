@@ -15,7 +15,7 @@
 </pre>
 <br />
 
-## WAIT! Before you enter, just say hi to my baby🐶
+## WAIT! Before you read, just say hi to my baby🐶
 <div align="center">
 <img src="https://user-images.githubusercontent.com/47337588/123636774-3736ec00-d858-11eb-9bb6-5649f10cc011.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/47337588/123636777-38681900-d858-11eb-9f69-1e388f93677b.jpg" width="200" />
