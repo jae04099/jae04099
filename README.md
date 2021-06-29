@@ -27,7 +27,7 @@
                                                                           
 # Front End Engineer 👋
 - 🌱 I’m currently learning React.js & Vanilla JavaScript
-- ✨ Also, stydying CS for understand a lot
+- ✨ Also, studying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
 <br />
 <br />
