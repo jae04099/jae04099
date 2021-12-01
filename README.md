@@ -22,16 +22,32 @@
 <img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="200" />
 </div>
 <br />
- -->
-
-                                                                          
+ -->                                                                      
 # Front End Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning React.js & Vanilla JavaScript
+```javascript
+let gyuriLee = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Python", "HTML", "CSS", "SCSS"],
+    askMeAbout: ["web dev", "tech", "graphicdesign"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Vanilla JS"],
+        },
+        tools: {
+            design: ["Photoshop", "Illustrator", "Figma", "Zeplin"]
+        }
+    },
+    architecture: ["Serverless Architecture", "Single page applications"],
+    currentFocus: "React, Vanilla Javascript",
+    funFact: "I majored Sociology and studied in NJ about an year!"
+};
+```
+<!-- - 🌱 I’m currently learning React.js & Vanilla JavaScript
 - ✨ Also, studying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
 <br />
-<br />
+<br /> -->
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jae04099&count_private=true&show_icons=true&theme=dracula" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae04099&layout=compact&theme=dracula&count_private=true" /> -->
