@@ -14,7 +14,7 @@
                      '                                                        '             '     
 </pre>
 <br />
-
+<!-- 
 ## WAIT! Before you read, just say hi to my baby🐶
 <div align="center">
 <img src="https://user-images.githubusercontent.com/47337588/123636774-3736ec00-d858-11eb-9bb6-5649f10cc011.jpg" width="200" />
@@ -22,12 +22,12 @@
 <img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="200" />
 </div>
 <br />
-
+ -->
 
                                                                           
 # Front End Engineer 👋
 - 🌱 I’m currently learning React.js & Vanilla JavaScript
-- ✨ Also, studying CS for understand a lot
+Cancel changes- ✨ Also, studying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
 <br />
 <br />
