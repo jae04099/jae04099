@@ -14,6 +14,7 @@
                      '                                                        '             '     
 </pre>
 <br />
+
 <!-- 
 ## WAIT! Before you read, just say hi to my baby🐶
 <div align="center">
@@ -22,9 +23,7 @@
 <img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="200" />
 </div>
 <br />
- -->                                                                      
-# Front End Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+ --> 
 ```javascript
 let gyuriLee = {
     pronouns: "She" | "Her",
