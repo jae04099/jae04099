@@ -25,7 +25,8 @@
  -->
 
                                                                           
-# Front End Engineer 👋
+# Front End Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 🌱 I’m currently learning React.js & Vanilla JavaScript
 - ✨ Also, studying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
