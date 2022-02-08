@@ -1,17 +1,10 @@
 <pre align="center">                                                                                                  
- ____             ______  _____   ______         _____    ____             ______        ______   
-|    |        ___|\     \|\    \ |\     \    ___|\    \  |    |        ___|\     \   ___|\     \  
-|    |       |     \     \\\    \| \     \  /    /\    \ |    |       |     \     \ |     \     \ 
-|    |       |     ,_____/|\|    \  \     ||    |  |    ||    |       |     ,_____/||     ,_____/|
-|    |  ____ |     \--'\_|/ |     \  |    ||    |__|    ||    |  ____ |     \--'\_|/|     \--'\_|/
-|    | |    ||     /___/|   |      \ |    ||    .--.    ||    | |    ||     /___/|  |     /___/|  
-|    | |    ||     \____|\  |    |\ \|    ||    |  |    ||    | |    ||     \____|\ |     \____|\ 
-|____|/____/||____ '     /| |____||\_____/||____|  |____||____|/____/||____ '     /||____ '     /|
-|    |     |||    /_____/ | |    |/ \|   |||    |  |    ||    |     |||    /_____/ ||    /_____/ |
-|____|_____|/|____|     | / |____|   |___|/|____|  |____||____|_____|/|____|     | /|____|     | /
-  \(    )/     \( |_____|/    \(       )/    \(      )/    \(    )/     \( |_____|/   \( |_____|/ 
-   '    '       '    )/        '       '      '      '      '    '       '    )/       '    )/    
-                     '                                                        '             '     
+  _____ _   _       __                  
+  \_   \ |_( )__   / /  ___ _ __   __ _ 
+   / /\/ __|/ __| / /  / _ \ '_ \ / _` |
+/\/ /_ | |_ \__ \/ /__|  __/ | | | (_| |
+\____/  \__||___/\____/\___|_| |_|\__,_|
+                                        
 </pre>
 <br />
 
@@ -27,18 +20,18 @@
 ```javascript
 let gyuriLee = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "HTML", "CSS", "SCSS"],
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SCSS", "styleld-components"],
     askMeAbout: ["web dev", "tech", "graphicdesign"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Vanilla JS"],
+            js: ["React", "Vue", "Vanilla JS", "Next.js", "Nuxt.js"],
         },
         tools: {
             design: ["Photoshop", "Illustrator", "Figma", "Zeplin"]
         }
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "React, Vanilla Javascript",
+    currentFocus: "React, Next.js, TypeScript",
     funFact: "I majored Sociology and studied in NJ about an year!"
 };
 ```
@@ -49,7 +42,7 @@ let gyuriLee = {
 <br /> -->
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jae04099&count_private=true&show_icons=true&theme=dracula" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae04099&layout=compact&theme=dracula&count_private=true" /> -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae04099&layout=compact&theme=dracula&count_private=true" /> -->
  </div>
 <!--
 **jae04099/jae04099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
