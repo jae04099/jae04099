@@ -20,7 +20,7 @@
 ```javascript
 let gyuriLee = {
     pronouns: "She" | "Her",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SCSS", "styleld-components"],
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SCSS", "styled-components"],
     askMeAbout: ["web dev", "tech", "graphicdesign"],
     technologies: {
         frontEnd: {
