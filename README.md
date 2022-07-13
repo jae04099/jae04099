@@ -1,10 +1,13 @@
 <pre align="center">                                                                                                  
-  _____ _   _       __                  
-  \_   \ |_( )__   / /  ___ _ __   __ _ 
-   / /\/ __|/ __| / /  / _ \ '_ \ / _` |
-/\/ /_ | |_ \__ \/ /__|  __/ | | | (_| |
-\____/  \__||___/\____/\___|_| |_|\__,_|
-                                        
+
+ ######  #### ##     ## ########  ##       ########    ####  ######     ######## ##     ## ########    ########  ########  ######  ######## 
+##    ##  ##  ###   ### ##     ## ##       ##           ##  ##    ##       ##    ##     ## ##          ##     ## ##       ##    ##    ##    
+##        ##  #### #### ##     ## ##       ##           ##  ##             ##    ##     ## ##          ##     ## ##       ##          ##    
+ ######   ##  ## ### ## ########  ##       ######       ##   ######        ##    ######### ######      ########  ######    ######     ##    
+      ##  ##  ##     ## ##        ##       ##           ##        ##       ##    ##     ## ##          ##     ## ##             ##    ##    
+##    ##  ##  ##     ## ##        ##       ##           ##  ##    ##       ##    ##     ## ##          ##     ## ##       ##    ##    ##    
+ ######  #### ##     ## ##        ######## ########    ####  ######        ##    ##     ## ########    ########  ########  ######     ##    
+                                  
 </pre>
 <br />
 
@@ -16,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/47337588/123636779-3900af80-d858-11eb-8d5e-61782653b025.jpg" width="200" />
 </div>
 <br />
- --> 
+ 
 ```javascript
 let gyuriLee = {
     pronouns: "She" | "Her",
@@ -35,13 +38,15 @@ let gyuriLee = {
     funFact: "I majored Sociology and studied in NJ about an year!"
 };
 ```
+-->
 <!-- - 🌱 I’m currently learning React.js & Vanilla JavaScript
 - ✨ Also, studying CS for understand a lot
 - ⚡ Fun fact: I majored Sociology and studied in NJ about an year!
 <br />
-<br /> -->
+<br /> 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jae04099&count_private=true&show_icons=true&theme=dracula" />
+  -->
 <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae04099&layout=compact&theme=dracula&count_private=true" /> -->
  </div>
 <!--
@@ -58,5 +63,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
