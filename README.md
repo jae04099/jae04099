@@ -1,6 +1,4 @@
 E-MAIL: gyurilee.me@gmail.com
-<br/>SEND ME AN EMAIL AS "I wanna be your friend!"
-
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae04099&count_bg=%23986AE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%99%A5&edge_flat=true"/></a>
 ## WAIT! Before you read, just say hi to my baby🐶
